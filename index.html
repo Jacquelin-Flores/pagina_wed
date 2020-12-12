@@ -1,0 +1,71 @@
+<html>
+<head>
+<meta name="description" content="Esta es mi primera pagina creada en Html">
+<meta name="keywords" content="mi primera pagina,mi primer pagina en html, creacion de paginas"> 
+<title>Artesania Navarro!</title>
+</head>
+
+
+<body background="imagenes/bg.jpg"bgcolor="white" text="black">
+
+<center><table width="950><tr><td>
+
+<img src="logo.png"><alt="logo de nuestra pagina web">
+
+<a href=" index.html"> 
+<img src="menu/inicio.png" alt="boton de inicio"></a>
+<a href="nosotros.html">
+<img src="menu/nosotros.png"alt="boton de nosotros"></a>
+<a href="servicios.html">
+<img src="menu/servicios.png"alt="boton de servicios"></a>
+<a href="contacto.html ">
+<img src="menu/contacto.png"alt="boton de contactos"></a>
+
+
+<img src="banner_circulos.png" alt="banner central de nuestra pagina">
+
+<p>Hola!, bienvenidos a mi pagina de Artesania. les ofreceremos artesania de todo tipo, tambien nos dedicamos ala venta de camisetas lencas tie Dye con cloro.</p>
+
+<center><table border="1">
+<tr>
+<td>Texto 1</td>
+<td>Texto 2</td>
+<td>Otra columna</td>
+</tr>
+</tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+</table></center>
+
+<h1><font color="red">Disenador web</font></h1>
+<h2>My Resumen</h2>
+<h3>Experencia</h3>
+<h4>Mas Informacion</h4>
+<h5>Titulo aqui</h5>
+<h6>Titulo aqui</h6>
+
+</td>
+<td>2</td>
+
+</tr>
+</table></center>
+
+<center>
+<a href="index.html">Inicio</a> -
+<a href="nosotros.html">Nosotros</a> -
+<a href="servicios.html">Servicios</a> -
+<a href="contactos.html">Contactos</a> <br> copyright 2020
+ Mandanosun mensaje via email a <a href="mailto:info@website.com">info@website.com</a>
+
+</center>
+</td></tr></table></center>
+
+
+
+
+
+</boby>
+
+</html<
