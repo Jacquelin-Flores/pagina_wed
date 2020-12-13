@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Jacquelin-Flores/pagina_wed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+<meta name="description" content="Esta es mi primera pagina creada en Html">
+<meta name="keywords" content="mi primera pagina,mi primer pagina en html, creacion de paginas"> 
+<title>Artesania Navarro!</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<body background="imagenes/bg.jpg"bgcolor="white" text="black">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<center><table width="950><tr><td>
 
-```markdown
-Syntax highlighted code block
+<img src="logo.png"><alt="logo de nuestra pagina web">
 
-# Header 1
-## Header 2
-### Header 3
+<a href=" index.html"> 
+<img src="menu/inicio.png" alt="boton de inicio"></a>
+<a href="nosotros.html">
+<img src="menu/nosotros.png"alt="boton de nosotros"></a>
+<a href="servicios.html">
+<img src="menu/servicios.png"alt="boton de servicios"></a>
+<a href="contacto.html ">
+<img src="menu/contacto.png"alt="boton de contactos"></a>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<img src="banner_circulos.png" alt="banner central de nuestra pagina">
 
-**Bold** and _Italic_ and `Code` text
+<p>Hola!, bienvenidos a mi pagina de Artesania. les ofreceremos artesania de todo tipo, tambien nos dedicamos ala venta de camisetas lencas tie Dye con cloro.</p>
 
-[Link](url) and ![Image](src)
-```
+<center><table border="1">
+<tr>
+<td>Texto 1</td>
+<td>Texto 2</td>
+<td>Otra columna</td>
+</tr>
+</tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+</table></center>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h1><font color="red">Disenador web</font></h1>
+<h2>My Resumen</h2>
+<h3>Experencia</h3>
+<h4>Mas Informacion</h4>
+<h5>Titulo aqui</h5>
+<h6>Titulo aqui</h6>
 
-### Jekyll Themes
+</td>
+<td>2</td>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jacquelin-Flores/pagina_wed/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</tr>
+</table></center>
 
-### Support or Contact
+<center>
+<a href="index.html">Inicio</a> -
+<a href="nosotros.html">Nosotros</a> -
+<a href="servicios.html">Servicios</a> -
+<a href="contactos.html">Contactos</a> <br> copyright 2020
+ Mandanosun mensaje via email a <a href="mailto:info@website.com">info@website.com</a>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</center>
+</td></tr></table></center>
+
+
+
+
+
+</boby>
+
+</html<
